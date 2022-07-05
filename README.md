@@ -1,15 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Math Magicians Project
 
-> Description the project.
+> Build a math magician app using React framework.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
 
 ## Live Demo (if available)
 
@@ -38,19 +36,14 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Christabelle143](https://github.com/Christabelle143)
+- Twitter: [@christabelleyo](https://twitter.com/christabelleyo)
+- LinkedIn: [Youtalactiochristabelle](https://linkedin.com/in/YoutaLactioChristabelle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
