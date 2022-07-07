@@ -1,7 +1,6 @@
 import React from 'react';
-// eslint-disable-next-line react/prefer-stateless-function
-class Calculator extends React.Component {
-  /* eslint-enable */
+
+class Calculator extends React.PureComponent {
   render() {
     return (
       <div className="calculator">
