@@ -1,63 +1,63 @@
 
 .App {
-	text-align: center;
-  }
-  
-  .App-container {
-	height: 100vh;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	font-size: 12px;
-  }
-  
-   input[type="number"] {
-	-moz-appearance: textfield;
-  }
-  
-  input[type="number"]::-webkit-outer-spin-button,
-  input[type="number"]::-webkit-inner-spin-button {
-	-webkit-appearance: none;
-	margin: 0;
-  }
-  
-  .calculator {
-	width: 50%;
-  } 
-  
-  .calc-input {
-	font-family: 'Times New Roman', Times, serif;
-	width: 99%;
-	border: 1px solid #bdbdbd;
-	height: 50px;
-	background-color: grey;
-	color:#fff;
-	font-size: 25px;
-	direction: rtl;
-  }
-  
-  .calc-input:focus {
-	outline: none;
-  }
-  
-  .calc-buttons {
-	width: 100%;
-	font-family: arial, sans-serif;
-	border-collapse: collapse;
-  }
-  
-  td {
-	border: 1px solid #bdbdbd;
-	font-size: 18px;
-	padding-top: 12px;
-	padding-bottom: 12px;
-	text-align: center;
-  }
-  
-  .button1 {
-	background-color: rgb(223, 223, 223);
-  }
-  
-  .button2 {
-	background-color: rgb(236, 142, 54);
-  }
+  text-align: center;
+}
+
+.App-container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.calculator {
+  width: 50%;
+}
+
+.calc-input {
+  font-family: 'Times New Roman', Times, serif;
+  width: 99%;
+  border: 1px solid #bdbdbd;
+  height: 50px;
+  background-color: grey;
+  color: #fff;
+  font-size: 25px;
+  direction: rtl;
+}
+
+.calc-input:focus {
+  outline: none;
+}
+
+.calc-buttons {
+  width: 100%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid #bdbdbd;
+  font-size: 18px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+}
+
+.button1 {
+  background-color: rgb(223, 223, 223);
+}
+
+.button2 {
+  background-color: rgb(236, 142, 54);
+}

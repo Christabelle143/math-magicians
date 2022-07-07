@@ -29,7 +29,7 @@ class Calculator extends React.Component {
             <td className="button1">1</td>
             <td className="button1">2</td>
             <td className="button1">3</td>
-            <td className="button2">+</td> 
+            <td className="button2">+</td>
           </tr>
           <tr className="tr">
             <td className="button1" colSpan="2">0</td>
