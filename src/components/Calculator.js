@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
-function Calculator() {
+const Calculator = () => {
   const [state, setState] = useState(0);
   const handleClick = (e) => {
     setState((state) => calculate(state, e.target.textContent));
@@ -34,5 +34,5 @@ function Calculator() {
       </div>
     </>
   );
-}
+};
 export default Calculator;
