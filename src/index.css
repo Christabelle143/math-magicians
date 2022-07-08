@@ -11,29 +11,20 @@
   font-size: 12px;
 }
 
-input[type="number"] {
-  -moz-appearance: textfield;
-}
-
-input[type="number"]::-webkit-outer-spin-button,
-input[type="number"]::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
-}
-
 .calculator {
   width: 50%;
 }
 
 .calc-input {
+	display: flex;
   font-family: 'Times New Roman', Times, serif;
-  width: 99%;
+  width: 100%;
   border: 1px solid #bdbdbd;
   height: 50px;
   background-color: grey;
   color: #fff;
   font-size: 25px;
-  direction: rtl;
+justify-content: flex-end;
 }
 
 .calc-input:focus {
