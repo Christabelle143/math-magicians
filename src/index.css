@@ -59,3 +59,52 @@ button:active {
   width: 50%;
   height: 40px;
 }
+
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #f2f2f2;
+  justify-content: space-between;
+}
+
+.navbar h1 {
+  color: #00ff;
+}
+
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+  border-left: 2px solid grey;
+}
+
+.navbar a:hover {
+  color: #f1356d;
+  border-left: 4px solid #f1356d;
+}
+
+.homepage {
+  margin: 2rem;
+}
+
+.homepage h2 {
+  margin-bottom: 10px;
+}
+
+.homepage p {
+  margin: 2rem;
+}
+
+.quote {
+  text-align: center;
+  width: 50%;
+  margin: 10rem;
+}
+
+.maths {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 500px;
+}
